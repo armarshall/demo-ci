@@ -2,6 +2,9 @@ package br.ufmg.dcc;
 
 public class SimpleCalculator {
 
+
+
+    // Hello World!
   public int addition(int x, int y) {
     return x + y;
   }
